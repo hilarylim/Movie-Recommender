@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Data Science Project - Recommender System (Netflix)
 
-You can use the [editor on GitHub](https://github.com/hilarylim/yijun_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Objective: **<0.9525** RMSE score (Cinematch Score) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Source
+Kaggle: https://www.kaggle.com/netflix-inc/netflix-prize-data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Usage License
+Netflix can not guarantee the correctness of the data, its suitability for any
+particular purpose, or the validity of results based on the use of the data set.
+The data set may be used for any research purposes under the following
+conditions:
 
-```markdown
-Syntax highlighted code block
+     * The user may not state or imply any endorsement from Netflix.
 
-# Header 1
-## Header 2
-### Header 3
+     * The user must acknowledge the use of the data set in
+       publications resulting from the use of the data set, and must
+       send us an electronic or paper copy of those publications.
 
-- Bulleted
-- List
+     * The user may not redistribute the data without separate
+       permission.
 
-1. Numbered
-2. List
+     * The user may not use this information for any commercial or
+       revenue-bearing purposes without first obtaining permission
+       from Netflix.
 
-**Bold** and _Italic_ and `Code` text
+If you have any further questions or comments, please contact the Prize
+administrator <prizemaster@netflix.com>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hilarylim/yijun_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
