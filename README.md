@@ -35,10 +35,5 @@ Root Mean Square Error (RMSE) was one of the metrics used to evaluate the projec
 
 <img width="600" alt="Netflix RMSE Overview (tabular format)" src="https://user-images.githubusercontent.com/77626155/128596596-706a850f-f293-4366-8423-ab8dfac5329c.PNG">
 
-
-## Recommendations
-Recommendations were provided using collaborative filtering with models via user. 
-
-
 ## Takeaways 
 Over the span of 10 days, whilst working as a full-timer, I am glad to attain great RMSE scores. I believe with better device and more time given prior to the presentation, I could have better results. As most of my time spent was running the different models with different data size. At the same time, trying to figure out how do I not lose accuracy with less data (from the original dataset provided). 
